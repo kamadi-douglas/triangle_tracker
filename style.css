@@ -7,5 +7,7 @@ h1 {
 }
 body{
     border: 2px dashed-red;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ0-VMmcr721-ge4_bDRDteHwJA45F3tW2FN9WyF66jm5OLOMM");
+    background-color:yellowgreen;
+    background-repeat: no repeat;
+    background:cover;
 }
