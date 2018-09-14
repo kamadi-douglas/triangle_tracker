@@ -9,7 +9,7 @@ function triangle(){
     var second = sides[1];
     var third = sides[2];
     
-    /* console.log(sides); */
+   
     if (first===second  &&  second===third && first===third){
     alert("equilateral")
     }
@@ -24,4 +24,5 @@ function triangle(){
     else {
     alert("NOT a triangle")
     }
-    }
+}
+    
