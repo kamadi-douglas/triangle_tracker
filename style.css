@@ -1,9 +1,11 @@
-h1{
-    color:blue;
+h1 {
+    color:red;
+    text-align: center;
+}
+#images{
+
 }
 body{
-    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxz5FBQ6RkniMaK8D3fXZmD0TwnsltBmwo-MgKxNWtsKfKDhl8");
-}
-.kamadi{
-    align-content:center;
+    border: 2px dashed-red;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ0-VMmcr721-ge4_bDRDteHwJA45F3tW2FN9WyF66jm5OLOMM");
 }

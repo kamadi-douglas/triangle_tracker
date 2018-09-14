@@ -1,33 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link href="style.css" rel="stylesheet" type="text/css">
-  <script src="js/scripts.js"></script>
-  <title>Triangle Tracker</title>
+
+<title> triangle type finder </title>
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-3">
-        <h1>FIND THE TRIANGLE TYPE HERE!!!..</h1>
+        <script src="script.js" type="text/javascript"></script> 
+<h1> FIND TRIANGLE TYPE HERE...!!! </h1>
+<div id = "images">
+  <marquee behavior="alternate" hspace="">
+                  <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHjTYub9Y6sq3az4psmCyLNR3Hflwsejm8uECweORq1P7gWIohNg">
+                  
+                
+  </marquee>
+</div>
+ <br>
+ <br>
+ <br>
 
-        <div class="jumbotron">
-          <form id="triangle">
-            <div class="kamadi">
-              <label for="sideA">Side A:</label>
-              <input id="sideA" type="text"><br>
-              <label for="sideB">Side B:</label>
-              <input id="sideB" type="text"><br>
-              <label for="sideC">Side C:</label>
-              <input id="sideC" type="text">
-            </div>
-            <button type="submit" class="btn btn-sm btn-primary">Name the triangle____?</button>
-          </form>
-        </div>
-        <p id="result"></p>
-      </div>
-    </div>
-  </div>
+ <button id="check" type="submit" onclick="triangle();">CLICK HERE... </button>
 
 </body>
 </html>
