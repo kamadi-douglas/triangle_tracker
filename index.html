@@ -1,11 +1,33 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <link href="style.css" rel="stylesheet">
-        <script src="script.js"></script>
-        <title></title>
-    </head>
-    <body>
-        <h1>Triangle tracker.</h1>
-    </body>
+<head>
+  <link href="style.css" rel="stylesheet" type="text/css">
+  <script src="js/scripts.js"></script>
+  <title>Triangle Tracker</title>
+</head>
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-3">
+        <h1>FIND THE TRIANGLE TYPE HERE!!!..</h1>
+
+        <div class="jumbotron">
+          <form id="triangle">
+            <div class="kamadi">
+              <label for="sideA">Side A:</label>
+              <input id="sideA" type="text"><br>
+              <label for="sideB">Side B:</label>
+              <input id="sideB" type="text"><br>
+              <label for="sideC">Side C:</label>
+              <input id="sideC" type="text">
+            </div>
+            <button type="submit" class="btn btn-sm btn-primary">Name the triangle____?</button>
+          </form>
+        </div>
+        <p id="result"></p>
+      </div>
+    </div>
+  </div>
+
+</body>
 </html>

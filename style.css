@@ -1,3 +1,9 @@
 h1{
-    color:red;
+    color:blue;
+}
+body{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxz5FBQ6RkniMaK8D3fXZmD0TwnsltBmwo-MgKxNWtsKfKDhl8");
+}
+.kamadi{
+    align-content:center;
 }
