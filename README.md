@@ -12,5 +12,5 @@
 ### I know there are issues to be solved in this project which am still working on them but you can contribute to it.
 # Support.
 ### If you have any issues using this app, contact: kamadidouglas@gmail.com
-# License
+# License.
 ### MIT License. Copyright 2018 Kamadi Douglas.
