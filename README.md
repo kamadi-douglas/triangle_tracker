@@ -13,4 +13,4 @@
 # Support
 ### If you have any issues using this app, contact kamadidouglas@gmail.com
 # License
-### MIT License. Copyright 2018 Kamadi Douglas
+### MIT License. Copyright 2018 Kamadi Douglas.
